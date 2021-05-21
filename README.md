@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about What do you want :D
 - 📫 How to reach me: [Twitter](https://twitter.com/furkanhnci) or furkanhanci265@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 -->
