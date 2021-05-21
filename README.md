@@ -7,10 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SwiftUI/ARKit/CoreML
 - 🌱 I’m currently learning Flutter/Dart Language
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about What do you want :D
 - 📫 How to reach me: [Twitter](https://twitter.com/furkanhnci) or furkanhanci265@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 -->
